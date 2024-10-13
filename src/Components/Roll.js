@@ -363,11 +363,11 @@ export default function Roll() {
                     }
 
                     if (poolInit >= (dynamicRnd[0] + dynamicRnd[1])) {
-
                         poolStars = config[slideIndex].pool["5stars"]
                         starsRef.current = 5;
                         rollTaker = guarantDropHandler(poolStars, rollIndex % 160 === 0);
                     }
+
                     videoRef.current = "../" + trigger + "starsEd.mp4";
                     if (starsRef.current > trigger) {
                         trigger = starsRef.current;
@@ -451,8 +451,8 @@ export default function Roll() {
                             </div>
                             <div style={{ display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column" }}>
                                 <div style={{ cursor: "pointer", color: "#B57365" }} onClick={resetCounter}>сбросить баннер</div>
+                                <div style={{ cursor: "pointer", color: "#B57365" }} onClick={resetAll}>сбросить всё</div>
                             </div>
-
                         </div>
                         {/* setCount - 1/10 setType - acquaint/intertwined */}
                         {wishButtons}
