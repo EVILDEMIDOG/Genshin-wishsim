@@ -1,0 +1,509 @@
+.fadeOut {
+  display: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  background-color: white;
+  z-index: 15;
+}
+.gacha {
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+}
+.skipButton {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  right: 50px;
+  top: 0;
+  min-width: 8%;
+  z-index: 20;
+  cursor: pointer;
+  font-size: 1.5em;
+}
+.skipButton h1 {
+  color: #FFFFFF;
+  font-weight: 500;
+}
+.skipButton:hover {
+  background: radial-gradient(ellipse, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 65%, rgba(255,255,255,0) 100%);
+}
+.gachaCenter {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+.banners {
+  width: 100%;
+  margin: auto 0
+}
+.bannerThumbs {
+  height: 75px;
+  max-width: 650px;
+  width: 100%;
+  margin-block: 1.5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bannerThumbs .swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bannerThumbs .swiper-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bannerThumb {
+  margin: 0;
+  display: flex;
+  width: 120px !important;
+  height: 70px !important;
+}
+.bannerThumbImage {
+  background-color: #4f6d95;
+  transition: background-color .3s ease-in-out;
+  transition: transform .2s ease-in-out;
+  width: 85%;
+  height: 85%;
+  position: relative;
+  transform: scale(1);
+  cursor: pointer;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.bannerThumbImage:hover {
+  background-color: #eee2c8;
+  transition: background-color .3s ease-in-out;
+  transition: transform .2s ease-in-out;
+  transform: scale(1.1);
+}
+.swiper-slide-thumb-active .bannerThumbImage {
+  background-color: #eee2c8;
+  transition: background-color .3s ease-in-out;
+  transition: transform .2s ease-in-out;
+  transform: scale(1.1);
+}
+.swiper-button-prev {
+  background-image: url('https://genshin101.ru/wp-content/uploads/wish_assets/arrow-left.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 1vw;
+}
+.swiper-button-prev::after {
+  display: none;
+}
+.swiper-button-next {
+  background-image: url('https://genshin101.ru/wp-content/uploads/wish_assets/arrow-right.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 1vw;
+}
+.swiper-button-next::after {
+  display: none;
+}
+.bannerThumb:hover {
+  transform: scale(1.1);
+}
+.bannerDropName {
+  position: absolute;
+  max-width: 180px;
+  text-shadow: black 0px 0px 5px;
+  color: #FFFFFF;
+  margin: 0;
+}
+.bannerDropPhrase {
+  position: absolute;
+  font-size: .8em;
+  margin: 0;
+  color: #cfbc99;
+  background-color: #39425d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1px 3px;
+}
+.bTransition {
+  transition: translate .5s ease-in-out;
+}
+.banner {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 600px;
+  justify-content: center;
+  align-items: center;
+}
+.bannerTypeName {
+  position: absolute;
+  left: -2%;
+  font-size: .75em;
+  top: 0;
+  padding: 1% 2%;
+  border-radius: 13px 0 13px 13px;
+  line-height: 100%;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+.bannerLeftSide {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: .75em;
+  width: 40%;
+}
+.bannerNameBlock {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 210%;
+  padding: 15% 0 0 8.1%;
+}
+.bannerName {
+  margin: 0;
+}
+.bannerName:first-child {
+  width: 100%;
+}
+.bannerDescription {
+  font-weight: 500;
+  margin-left: 2.1%;
+  padding-left: 4.8%;
+  border-left: rgba(0,0,0,.6) solid 4px;
+}
+.bannerDescription>h4 {
+  margin: 10px 0 0 0;
+}
+.banner4info {
+  color: #FFFFFF;
+  margin-block: 3%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.banner4info>span:first-child {
+  padding: 0 5px;
+}
+.gachaBottom {
+  display: flex;
+  width: 98%;
+  justify-content: space-around;
+  margin: 1%;
+}
+.gachaRollCounter {
+  min-width: 20%;
+  min-height: 52px;
+  width: fit-content;
+  padding-inline: 10px;
+  background-color: #FFFFFF;
+  color: #ADA499;
+  font-weight: 500;
+  border-radius: 25.5px;
+  border: #C5CDA2 3px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rollButtonBlock {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: auto;
+
+}
+.rollButton {
+  transition: transform .15s ease-in-out;
+  transition: filter .15s ease-in-out;
+  position: relative;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 250px;
+}
+.rollButton:active {
+  transform: scale(.9);
+  filter: contrast(.5);
+}
+.rollButton:nth-child(2) {
+  margin-left: 1%;
+}
+.dropMenu {
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.dropAddition {
+  display: flex;
+  position: absolute;
+  width: 90%;
+  top: 50%;
+}
+.charType {
+  display: none;
+}
+.dropName {
+  color: #FFFFFF;
+}
+.wishText {
+  color: #ADA499;
+  font-weight: 500;
+  font-size: 90%;
+  margin: 0;
+  z-index: 2;
+}
+.wishType {
+  display: block;
+  width: 20px;
+  height: 20px;
+}
+.gachaRollButton {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.wishBottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+}
+.rollVid {
+  display: none;
+  position: absolute;
+  z-index: 5;
+}
+.rollVid>video {
+  object-fit: cover;
+}
+.dropsFinal {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.dropFrame {
+  position: relative;
+  height: 91%;
+  width: 17vh;
+  display: flex;
+  justify-content: center;
+  transition: transform 100ms ease-in-out;
+}
+.dropFrame:hover {
+  transform: scale(1.1);
+}
+.innerFrame {
+  mask-image: url('https://genshin101.ru/wp-content/uploads/wish_assets/gachaFrame.svg');
+  mask-position: center;
+  mask-repeat: no-repeat;
+  background-image: url('https://genshin101.ru/wp-content/uploads/wish_assets/gachaFrame.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.dropFrameType {
+  position: absolute;
+  width: 85%;
+  bottom: 28%;
+  z-index: 15;
+}
+.dropFrameStars {
+  position: absolute;
+  bottom: 25%;
+}
+.dropFrameStars img {
+  width: fit-content;
+  height: 2.5vh;
+}
+
+@media (orientation: portrait) {
+  .dropFrame {
+    height: 45%;
+    width: 12vh;
+  }
+  .dropFrameType {
+    bottom: 20%;
+  }
+  .dropFrameStars {
+    bottom: 14%;
+  }
+  .dropFrameStars img {
+    height: 1.9vh;
+  }
+  .skipButton {
+    top: 0;
+    font-size: 1em;
+    right: 4%;
+  }
+  .gachaBottom {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .rollButtonBlock {
+    margin: 20px 0 0 0;
+    width: 100%;
+  }
+  .rollButton {
+    height: 100px;
+    width: 300px;
+  }
+}
+
+@keyframes fadeOutAnimation {
+   0% {
+    opacity: 0;
+   }
+   100% {
+    opacity: 1;
+   }
+}
+@keyframes fadeInAnimation {
+  0% {
+   opacity: 1;
+  }
+  100% {
+   opacity: 0;
+  }
+}
+@keyframes buttonAnimation {
+  0% {
+   transform: translateY(0px);
+  }
+  100% {
+    transform: translateY(30px);
+  }
+}
+@keyframes dropFadeIn {
+  0% {
+    filter: brightness(0);
+    transform: scale(2.5);
+  }
+  30% {
+    filter: brightness(0);
+    transform: scale(1);
+  }
+  85% {
+    filter: brightness(0);
+  }
+  100% {
+    filter: brightness(1);
+  }
+}
+@keyframes dropFadeOut {
+  0% {
+    filter: opacity(0);
+  }
+  85% {
+    filter: opacity(0);
+  }
+  100% {
+    filter: opacity(1);
+  }
+}
+@keyframes finalRollsView {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes dropTextFadeOut {
+  0% {
+    filter: opacity(0);
+  }
+  85% {
+    filter: opacity(0);
+    transform: translateX(30px);
+  }
+  100% {
+    filter: opacity(1);
+    transform: translateX(0);
+  }
+}
+@keyframes dropStarsFade {
+  0% {
+    filter: opacity(0);
+    transform: scale(3);
+  }
+  85% {
+    filter: opacity(0);
+    transform: scale(3);
+  }
+  100% {
+    filter: opacity(1);
+    transform: scale(1);
+  }
+}
+@keyframes dropsFinalAnim {
+  0% {
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+@keyframes bannerChange {
+  0% {
+    transform: translateX(30px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+
+@media screen and (max-width: 600px) {
+
+  .bannerNameBlock {
+    font-size: 2.5vw;
+  }
+  .bannerDescription {
+    font-size: 2.3vw;
+    font-weight: 500;
+  }
+  .bannerDropName {
+    font-size: 5vw;
+  }
+  .bannerDropPhrase {
+    font-size: 3vw;
+  }
+  .bannerTypeName {
+    font-size: 3vw;
+  }
+  .rollButton {
+    width: 0;
+  }
+  .rollButtonBlock {
+    flex-direction: column;
+    align-items: center;
+  }
+}

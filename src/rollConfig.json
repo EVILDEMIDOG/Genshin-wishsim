@@ -1,0 +1,1943 @@
+[
+    {
+        "bannerName": "Молитва новичка",
+        "alt": "beginner",
+        "bannerWishType": "acquaint",
+        "bannerWishTypeName": "Молитва для начинающих",
+        "bannerWishTypeAlt": "beginner",
+        "bannerColor": "#e79649",
+        "phrase": "Нераспустившийся цветок",
+        "pool": {
+            "5stars": [
+                {
+                    "name": "Ци Ци",
+                    "alt": "Qiqi",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false",
+                    "coords": "462"
+                },{
+                    "name": "Кэ Цин",
+                    "alt": "Keqing",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false",
+                    "coords": "443"
+                },{
+                    "name": "Дилюк",
+                    "alt": "Diluc",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false",
+                    "coords": "462"
+                },{
+                    "name": "Мона",
+                    "alt": "Mona",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false",
+                    "coords": "451"
+                },{
+                    "name": "Джинн",
+                    "alt": "Jean",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false",
+                    "coords": "459"
+                }
+            ],"4stars": [
+                {
+                    "name": "Сахароза",
+                    "alt": "Sucrose",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Чун Юнь",
+                    "alt": "Chongyun",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Ноэль",
+                    "alt": "Noelle",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Беннет",
+                    "alt": "Bennett",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Фишль",
+                    "alt": "Fischl",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "true"
+                },{
+                    "name": "Нин Гуан",
+                    "alt": "Ningguang",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Син Цю",
+                    "alt": "Xingqiu",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Бэй Доу",
+                    "alt": "Beidou",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сян Лин",
+                    "alt": "Xiangling",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Рэйзор",
+                    "alt": "Razor",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Барбара",
+                    "alt": "Barbara",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                }
+            ],"3stars": [
+                {
+                    "name": "Чёрная кисть",
+                    "alt": "black-tassel",
+                    "type": "polearm",
+                    "category": "weapon"
+                },{
+                    "name": "Холодное лезвие",
+                    "alt": "cool-steel",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Изумрудный шар",
+                    "alt": "emerald-orb",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Предвестник зари",
+                    "alt": "harbinger-of-dawn",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Лук ворона",
+                    "alt": "raven-bow",
+                    "type": "bow",
+                    "category": "weapon"
+                },{
+                    "name": "Меч небесного всадника",
+                    "alt": "skyrider-sword",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Эпос о драконоборцах",
+                    "alt": "thrilling-tales-of-dragon-slayers",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Меч драконьей крови",
+                    "alt": "bloodtained-greatsword",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Дубина переговоров",
+                    "alt": "debate-club",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Металлическая тень",
+                    "alt": "ferrous-shadow",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Руководство по магии",
+                    "alt": "magic-guide",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Клятва стрелка",
+                    "alt": "sharpshooter_s-oath",
+                    "type": "bow",
+                    "category": "weapon"
+                },{
+                    "name": "Рогатка",
+                    "alt": "slingshot",
+                    "type": "bow",
+                    "category": "weapon"
+                }
+            ]
+        }
+    },{
+        "bannerName": "Биение мудрого сердца",
+        "alt": "immaculate-pulse",
+        "bannerWishType": "intertwined",
+        "bannerWishTypeName": "Молитва события персонажа",
+        "bannerWishTypeAlt": "character",
+        "bannerColor": "#64ad15",
+        "phrase": "Преодоление бренности",
+        "pool": {
+            "5stars": [
+                {
+                    "name": "Бай Чжу",
+                    "alt": "Baizhu",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "true",
+                    "coords": "146"
+                },{
+                    "name": "Ци Ци",
+                    "alt": "Qiqi",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false",
+                    "coords": "461"
+                },{
+                    "name": "Кэ Цин",
+                    "alt": "Keqing",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false",
+                    "coords": "440"
+                },{
+                    "name": "Дилюк",
+                    "alt": "Diluc",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Мона",
+                    "alt": "Mona",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false",
+                    "coords": "452"
+                },{
+                    "name": "Джинн",
+                    "alt": "Jean",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false",
+                    "coords": "458"
+                },{
+                    "name": "Тигнари",
+                    "alt": "Tighnari",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "false",
+                    "coords": "256"
+                },{
+                    "name": "Дэхья",
+                    "alt": "Dehya",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false",
+                    "coords": "289"
+                }
+            ],"4stars": [
+                {
+                    "name": "Кавех",
+                    "alt": "Kaveh",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "true"
+                },{
+                    "name": "Кандакия",
+                    "alt": "Candace",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "true",
+                    "coords": "237"
+                },{
+                    "name": "Фишль",
+                    "alt": "Fischl",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "true"
+                },{
+                    "name": "Мика",
+                    "alt": "Mika",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Яо Яо",
+                    "alt": "Yaoyao",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Фарузан",
+                    "alt": "Faruzan",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Лайла",
+                    "alt": "Layla",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Дори",
+                    "alt": "Dori",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Коллеи",
+                    "alt": "Collei",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Хэйдзо",
+                    "alt": "Shikanoin-Heizou",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Синобу",
+                    "alt": "Kuki-Shinobu",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Юнь Цзинь",
+                    "alt": "Yun-Jin",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Горо",
+                    "alt": "Gorou",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Тома",
+                    "alt": "Thoma",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сара",
+                    "alt": "Kujou-Sara",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Саю",
+                    "alt": "Sayu",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Янь Фэй",
+                    "alt": "Yanfei",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Розария",
+                    "alt": "Rosaria",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Синь Янь",
+                    "alt": "Xinyan",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Диона",
+                    "alt": "Diona",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сахароза",
+                    "alt": "Sucrose",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Чун Юнь",
+                    "alt": "Chongyun",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Ноэль",
+                    "alt": "Noelle",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Беннет",
+                    "alt": "Bennett",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Нин Гуан",
+                    "alt": "Ningguang",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Син Цю",
+                    "alt": "Xingqiu",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Бэй Доу",
+                    "alt": "Beidou",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сян Лин",
+                    "alt": "Xiangling",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Рэйзор",
+                    "alt": "Razor",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Барбара",
+                    "alt": "Barbara",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Око сознания",
+                    "alt": "eye-of-perception",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Дождерез",
+                    "alt": "rainslasher",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Ржавый лук",
+                    "alt": "rust",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч-флейта",
+                    "alt": "the-flute",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Песнь странника",
+                    "alt": "the-widsith",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Гроза драконов",
+                    "alt": "dragon_s-bane",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Драконий рык",
+                    "alt": "lion_s-roar",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный лук",
+                    "alt": "sacrificial-bow",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальные мемуары",
+                    "alt": "sacrificial-fragments",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный двуручный меч",
+                    "alt": "sacrificial-greatsword",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный меч",
+                    "alt": "sacrificial-sword",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Двуручный меч Фавония",
+                    "alt": "favonius-greatsword",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч Фавония",
+                    "alt": "favonius-sword",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Боевой лук Фавония",
+                    "alt": "favonius-warbow",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Кодекс Фавония",
+                    "alt": "favonius-codex",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Копьё Фавония",
+                    "alt": "favonius-lance",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч-колокол",
+                    "alt": "the-bell",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Бесструнный",
+                    "alt": "the-stringless",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                }
+            ],"3stars": [
+                {
+                    "name": "Чёрная кисть",
+                    "alt": "black-tassel",
+                    "type": "polearm",
+                    "category": "weapon"
+                },{
+                    "name": "Холодное лезвие",
+                    "alt": "cool-steel",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Изумрудный шар",
+                    "alt": "emerald-orb",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Предвестник зари",
+                    "alt": "harbinger-of-dawn",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Лук ворона",
+                    "alt": "raven-bow",
+                    "type": "bow",
+                    "category": "weapon"
+                },{
+                    "name": "Меч небесного всадника",
+                    "alt": "skyrider-sword",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Эпос о драконоборцах",
+                    "alt": "thrilling-tales-of-dragon-slayers",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Меч драконьей крови",
+                    "alt": "bloodtained-greatsword",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Дубина переговоров",
+                    "alt": "debate-club",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Металлическая тень",
+                    "alt": "ferrous-shadow",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Руководство по магии",
+                    "alt": "magic-guide",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Клятва стрелка",
+                    "alt": "sharpshooter_s-oath",
+                    "type": "bow",
+                    "category": "weapon"
+                },{
+                    "name": "Рогатка",
+                    "alt": "slingshot",
+                    "type": "bow",
+                    "category": "weapon"
+                }
+            ]
+        }
+    },{
+        "bannerName": "Эфемерное недоверие",
+        "alt": "adrift-in-the-harbor",
+        "bannerWishType": "intertwined",
+        "bannerWishTypeName": "Молитва события персонажа",
+        "bannerWishTypeAlt": "character",
+        "bannerColor": "#46c2d8",
+        "phrase": "Взгляд полнолуния",
+        "pool": {
+            "5stars": [
+                {
+                    "name": "Гань Юй",
+                    "alt": "Ganyu",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "true"
+                },{
+                    "name": "Кэ Цин",
+                    "alt": "Keqing",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Мона",
+                    "alt": "Mona",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Тигнари",
+                    "alt": "Tighnari",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Ци Ци",
+                    "alt": "Qiqi",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Дилюк",
+                    "alt": "Diluc",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Джинн",
+                    "alt": "Jean",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Дэхья",
+                    "alt": "Dehya",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                }
+            ],"4stars": [
+                {
+                    "name": "Кавех",
+                    "alt": "Kaveh",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "true"
+                },{
+                    "name": "Кандакия",
+                    "alt": "Candace",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "true"
+                },{
+                    "name": "Фишль",
+                    "alt": "Fischl",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "true"
+                },{
+                    "name": "Мика",
+                    "alt": "Mika",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Яо Яо",
+                    "alt": "Yaoyao",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Фарузан",
+                    "alt": "Faruzan",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Лайла",
+                    "alt": "Layla",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Дори",
+                    "alt": "Dori",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Коллеи",
+                    "alt": "Collei",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Хэйдзо",
+                    "alt": "Shikanoin-Heizou",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Синобу",
+                    "alt": "Kuki-Shinobu",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Юнь Цзинь",
+                    "alt": "Yun-Jin",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Горо",
+                    "alt": "Gorou",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Тома",
+                    "alt": "Thoma",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сара",
+                    "alt": "Kujou-Sara",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Саю",
+                    "alt": "Sayu",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Янь Фэй",
+                    "alt": "Yanfei",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Розария",
+                    "alt": "Rosaria",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Синь Янь",
+                    "alt": "Xinyan",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Диона",
+                    "alt": "Diona",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сахароза",
+                    "alt": "Sucrose",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Чун Юнь",
+                    "alt": "Chongyun",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Ноэль",
+                    "alt": "Noelle",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Беннет",
+                    "alt": "Bennett",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Нин Гуан",
+                    "alt": "Ningguang",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Син Цю",
+                    "alt": "Xingqiu",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Бэй Доу",
+                    "alt": "Beidou",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сян Лин",
+                    "alt": "Xiangling",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Рэйзор",
+                    "alt": "Razor",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Барбара",
+                    "alt": "Barbara",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Око сознания",
+                    "alt": "eye-of-perception",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Дождерез",
+                    "alt": "rainslasher",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Ржавый лук",
+                    "alt": "rust",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч-флейта",
+                    "alt": "the-flute",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Песнь странника",
+                    "alt": "the-widsith",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Гроза драконов",
+                    "alt": "dragon_s-bane",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Драконий рык",
+                    "alt": "lion_s-roar",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный лук",
+                    "alt": "sacrificial-bow",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальные мемуары",
+                    "alt": "sacrificial-fragments",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный двуручный меч",
+                    "alt": "sacrificial-greatsword",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный меч",
+                    "alt": "sacrificial-sword",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Двуручный меч Фавония",
+                    "alt": "favonius-greatsword",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч Фавония",
+                    "alt": "favonius-sword",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Боевой лук Фавония",
+                    "alt": "favonius-warbow",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Кодекс Фавония",
+                    "alt": "favonius-codex",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Копьё Фавония",
+                    "alt": "favonius-lance",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч-колокол",
+                    "alt": "the-bell",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Бесструнный",
+                    "alt": "the-stringless",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                }
+            ],
+            "3stars": [
+                {
+                    "name": "Чёрная кисть",
+                    "alt": "black-tassel",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                    
+                },{
+                    "name": "Холодное лезвие",
+                    "alt": "cool-steel",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Изумрудный шар",
+                    "alt": "emerald-orb",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Предвестник зари",
+                    "alt": "harbinger-of-dawn",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Лук ворона",
+                    "alt": "raven-bow",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч небесного всадника",
+                    "alt": "skyrider-sword",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Эпос о драконоборцах",
+                    "alt": "thrilling-tales-of-dragon-slayers",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч драконьей крови",
+                    "alt": "bloodtained-greatsword",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Дубина переговоров",
+                    "alt": "debate-club",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Металлическая тень",
+                    "alt": "ferrous-shadow",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Руководство по магии",
+                    "alt": "magic-guide",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Клятва стрелка",
+                    "alt": "sharpshooter_s-oath",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Рогатка",
+                    "alt": "slingshot",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                }
+            ]
+        }
+    },{
+        "bannerName": "Воплощение божества",
+        "alt": "epitome-invocation",
+        "bannerWishType": "intertwined",
+        "bannerWishTypeName": "Молитва события оружия",
+        "bannerWishTypeAlt": "weapon",
+        "bannerColor": "#ef7c1a",
+        "pool": {
+            "5stars": [
+                {
+                    "name": "Лук Амоса",
+                    "alt": "amos-bow",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "true"
+                },{
+                    "name": "Великолепие лазурного свода",
+                    "alt": "jadefall-splendor",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "true"
+                },{
+                    "name": "Нефритовый коршун",
+                    "alt": "primordial-jade-winged-spear",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Молитва святым ветрам",
+                    "alt": "lost-prayer-to-the-sacred-winds",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Волчья погибель",
+                    "alt": "wolf_s-gravestone",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч Сокола",
+                    "alt": "aquila-favonia",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Небесное величие",
+                    "alt": "skyward-pride",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Небесный атлас",
+                    "alt": "skyward-atlas",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Небесное крыло",
+                    "alt": "skyward-harp",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Небесная ось",
+                    "alt": "skyward-spine",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Небесный меч",
+                    "alt": "skyward-blade",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                }
+            ],
+            "4stars": [
+                {
+                    "name": "Скитающаяся звезда",
+                    "alt": "wandering-evenstar",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "true"
+                },{
+                    "name": "Аквамарин махайры",
+                    "alt": "makhaira-aquamarine",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "true"
+                },{
+                    "name": "Драконий рык",
+                    "alt": "lion_s-roar",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "true"
+                },{
+                    "name": "Церемониальный лук",
+                    "alt": "sacrificial-bow",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "true"
+                },{
+                    "name": "Копьё Фавония",
+                    "alt": "favonius-lance",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "true"
+                },{
+                    "name": "Мика",
+                    "alt": "Mika",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Яо Яо",
+                    "alt": "Yaoyao",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Фарузан",
+                    "alt": "Faruzan",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Лайла",
+                    "alt": "Layla",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Дори",
+                    "alt": "Dori",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Коллеи",
+                    "alt": "Collei",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Хэйдзо",
+                    "alt": "Shikanoin-Heizou",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Синобу",
+                    "alt": "Kuki-Shinobu",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Юнь Цзинь",
+                    "alt": "Yun-Jin",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Горо",
+                    "alt": "Gorou",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Тома",
+                    "alt": "Thoma",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сара",
+                    "alt": "Kujou-Sara",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Саю",
+                    "alt": "Sayu",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Янь Фэй",
+                    "alt": "Yanfei",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Розария",
+                    "alt": "Rosaria",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Синь Янь",
+                    "alt": "Xinyan",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Диона",
+                    "alt": "Diona",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сахароза",
+                    "alt": "Sucrose",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Чун Юнь",
+                    "alt": "Chongyun",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Ноэль",
+                    "alt": "Noelle",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Беннет",
+                    "alt": "Bennett",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Нин Гуан",
+                    "alt": "Ningguang",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Син Цю",
+                    "alt": "Xingqiu",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Бэй Доу",
+                    "alt": "Beidou",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сян Лин",
+                    "alt": "Xiangling",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Рэйзор",
+                    "alt": "Razor",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Барбара",
+                    "alt": "Barbara",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Око сознания",
+                    "alt": "eye-of-perception",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Дождерез",
+                    "alt": "rainslasher",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Ржавый лук",
+                    "alt": "rust",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч-флейта",
+                    "alt": "the-flute",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Песнь странника",
+                    "alt": "the-widsith",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Гроза драконов",
+                    "alt": "dragon_s-bane",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Драконий рык",
+                    "alt": "lion_s-roar",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный лук",
+                    "alt": "sacrificial-bow",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальные мемуары",
+                    "alt": "sacrificial-fragments",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный двуручный меч",
+                    "alt": "sacrificial-greatsword",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный меч",
+                    "alt": "sacrificial-sword",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Двуручный меч Фавония",
+                    "alt": "favonius-greatsword",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч Фавония",
+                    "alt": "favonius-sword",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Боевой лук Фавония",
+                    "alt": "favonius-warbow",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Кодекс Фавония",
+                    "alt": "favonius-codex",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Копьё Фавония",
+                    "alt": "favonius-lance",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч-колокол",
+                    "alt": "the-bell",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Бесструнный",
+                    "alt": "the-stringless",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                }
+            ],
+            "3stars": [
+                {
+                    "name": "Чёрная кисть",
+                    "alt": "black-tassel",
+                    "type": "polearm",
+                    "category": "weapon"
+                },{
+                    "name": "Холодное лезвие",
+                    "alt": "cool-steel",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Изумрудный шар",
+                    "alt": "emerald-orb",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Предвестник зари",
+                    "alt": "harbinger-of-dawn",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Лук ворона",
+                    "alt": "raven-bow",
+                    "type": "bow",
+                    "category": "weapon"
+                },{
+                    "name": "Меч небесного всадника",
+                    "alt": "skyrider-sword",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Эпос о драконоборцах",
+                    "alt": "thrilling-tales-of-dragon-slayers",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Меч драконьей крови",
+                    "alt": "bloodtained-greatsword",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Дубина переговоров",
+                    "alt": "debate-club",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Металлическая тень",
+                    "alt": "ferrous-shadow",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Руководство по магии",
+                    "alt": "magic-guide",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Клятва стрелка",
+                    "alt": "sharpshooter_s-oath",
+                    "type": "bow",
+                    "category": "weapon"
+                },{
+                    "name": "Рогатка",
+                    "alt": "slingshot",
+                    "type": "bow",
+                    "category": "weapon"
+                }
+            ]
+        }
+    },{
+        "bannerName": "Жажда странствий",
+        "alt": "wanderlust-invocation",
+        "bannerWishType": "acquaint",
+        "bannerWishTypeName": "Стандартная молитва  ",
+        "bannerWishTypeAlt": "default",
+        "bannerColor": "#757acd",
+        "pool": {
+            "5stars": [
+                {
+                    "name": "Ци Ци",
+                    "alt": "Qiqi",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Кэ Цин",
+                    "alt": "Keqing",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Дилюк",
+                    "alt": "Diluc",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Мона",
+                    "alt": "Mona",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Джинн",
+                    "alt": "Jean",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Тигнари",
+                    "alt": "Tighnari",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Дэхья",
+                    "alt": "Dehya",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Нефритовый коршун",
+                    "alt": "primordial-jade-winged-spear",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Молитва святым ветрам",
+                    "alt": "lost-prayer-to-the-sacred-winds",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Волчья погибель",
+                    "alt": "wolf_s-gravestone",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч Сокола",
+                    "alt": "aquila-favonia",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Небесное величие",
+                    "alt": "skyward-pride",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Небесный атлас",
+                    "alt": "skyward-atlas",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Небесное крыло",
+                    "alt": "skyward-harp",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Небесная ось",
+                    "alt": "skyward-spine",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Небесный меч",
+                    "alt": "skyward-blade",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                }
+            ],
+            "4stars": [
+                {
+                    "name": "Мика",
+                    "alt": "Mika",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Яо Яо",
+                    "alt": "Yaoyao",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Фарузан",
+                    "alt": "Faruzan",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Лайла",
+                    "alt": "Layla",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Дори",
+                    "alt": "Dori",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Коллеи",
+                    "alt": "Collei",
+                    "type": "Dendro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Хэйдзо",
+                    "alt": "Shikanoin-Heizou",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Синобу",
+                    "alt": "Kuki-Shinobu",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Юнь Цзинь",
+                    "alt": "Yun-Jin",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Горо",
+                    "alt": "Gorou",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Тома",
+                    "alt": "Thoma",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сара",
+                    "alt": "Kujou-Sara",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Саю",
+                    "alt": "Sayu",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Янь Фэй",
+                    "alt": "Yanfei",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Розария",
+                    "alt": "Rosaria",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Синь Янь",
+                    "alt": "Xinyan",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Диона",
+                    "alt": "Diona",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сахароза",
+                    "alt": "Sucrose",
+                    "type": "Anemo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Чун Юнь",
+                    "alt": "Chongyun",
+                    "type": "Cryo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Ноэль",
+                    "alt": "Noelle",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Беннет",
+                    "alt": "Bennett",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Нин Гуан",
+                    "alt": "Ningguang",
+                    "type": "Geo",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Син Цю",
+                    "alt": "Xingqiu",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Бэй Доу",
+                    "alt": "Beidou",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Сян Лин",
+                    "alt": "Xiangling",
+                    "type": "Pyro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Рэйзор",
+                    "alt": "Razor",
+                    "type": "Electro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Барбара",
+                    "alt": "Barbara",
+                    "type": "Hydro",
+                    "category": "character",
+                    "guarantee": "false"
+                },{
+                    "name": "Око сознания",
+                    "alt": "eye-of-perception",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Дождерез",
+                    "alt": "rainslasher",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Ржавый лук",
+                    "alt": "rust",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч-флейта",
+                    "alt": "the-flute",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Песнь странника",
+                    "alt": "the-widsith",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Гроза драконов",
+                    "alt": "dragon_s-bane",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Драконий рык",
+                    "alt": "lion_s-roar",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный лук",
+                    "alt": "sacrificial-bow",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальные мемуары",
+                    "alt": "sacrificial-fragments",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный двуручный меч",
+                    "alt": "sacrificial-greatsword",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Церемониальный меч",
+                    "alt": "sacrificial-sword",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Двуручный меч Фавония",
+                    "alt": "favonius-greatsword",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч Фавония",
+                    "alt": "favonius-sword",
+                    "type": "sword",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Боевой лук Фавония",
+                    "alt": "favonius-warbow",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Кодекс Фавония",
+                    "alt": "favonius-codex",
+                    "type": "catalyst",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Копьё Фавония",
+                    "alt": "favonius-lance",
+                    "type": "polearm",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Меч-колокол",
+                    "alt": "the-bell",
+                    "type": "claymore",
+                    "category": "weapon",
+                    "guarantee": "false"
+                },{
+                    "name": "Бесструнный",
+                    "alt": "the-stringless",
+                    "type": "bow",
+                    "category": "weapon",
+                    "guarantee": "false"
+                }
+            ],
+            "3stars": [
+                {
+                    "name": "Чёрная кисть",
+                    "alt": "black-tassel",
+                    "type": "polearm",
+                    "category": "weapon"
+                },{
+                    "name": "Холодное лезвие",
+                    "alt": "cool-steel",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Изумрудный шар",
+                    "alt": "emerald-orb",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Предвестник зари",
+                    "alt": "harbinger-of-dawn",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Лук ворона",
+                    "alt": "raven-bow",
+                    "type": "bow",
+                    "category": "weapon"
+                },{
+                    "name": "Меч небесного всадника",
+                    "alt": "skyrider-sword",
+                    "type": "sword",
+                    "category": "weapon"
+                },{
+                    "name": "Эпос о драконоборцах",
+                    "alt": "thrilling-tales-of-dragon-slayers",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Меч драконьей крови",
+                    "alt": "bloodtained-greatsword",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Дубина переговоров",
+                    "alt": "debate-club",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Металлическая тень",
+                    "alt": "ferrous-shadow",
+                    "type": "claymore",
+                    "category": "weapon"
+                },{
+                    "name": "Руководство по магии",
+                    "alt": "magic-guide",
+                    "type": "catalyst",
+                    "category": "weapon"
+                },{
+                    "name": "Клятва стрелка",
+                    "alt": "sharpshooter_s-oath",
+                    "type": "bow",
+                    "category": "weapon"
+                },{
+                    "name": "Рогатка",
+                    "alt": "slingshot",
+                    "type": "bow",
+                    "category": "weapon"
+                }
+            ]
+        }
+    }
+]
